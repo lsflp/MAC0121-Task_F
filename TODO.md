@@ -14,4 +14,5 @@ TAREFA F
 - [ ] O vetor heap deve ser de structs, que guarda o inteiro i, e o numero do arquivo de origem.
 - [ ] Criar heap com malloc, e quando um arquivo acabar usar realloc (tamanho--);
 - [ ] Se tamanho == 0, break, fim do programa.;
-- [ ] Fazer os módulos (-s e -h) com for, e o contador será impresso no final. 
+- [ ] Fazer os módulos (-s e -h) com for, e o contador do for será impresso no final; 
+- [ ] Mexer com o min-heap pra tirar o elemento minimo e adiciona o próximo.
