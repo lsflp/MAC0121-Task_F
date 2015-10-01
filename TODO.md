@@ -1,7 +1,7 @@
 TAREFA F
 =========
 
-- [ ] Colocar o gabarito (EM TODOS OS ARQUIVOS);
+- ( ) Colocar o gabarito (EM TODOS OS ARQUIVOS);
 - [ ] A main tem que receber argumentos (int argc, char *argv[]);
 - [ ] O número de arquivos k é dado por k = argc - 2;
 - [ ] Nome do programa principal: mergemultiplo.c;
