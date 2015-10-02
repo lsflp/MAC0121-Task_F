@@ -5,6 +5,7 @@ TAREFA F
 - [ ] Colocar as funções de cada biblioteca na frente dos includes.
 - [ ] A main tem que receber argumentos (int argc, char *argv[]);
 - [ ] O número de arquivos k é dado por k = argc - 2;
+- [ ] Comentar cada função e o programa no começo.
 - [x] Nome do programa principal: mergemultiplo.c;
 - [ ] -s para modo simples e -h para modo com heap;
 - [ ] Colocar cada um em um módulo;
