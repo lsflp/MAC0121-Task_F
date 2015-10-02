@@ -1,10 +1,10 @@
 TAREFA F
 =========
 
-- [ ] Colocar o gabarito (EM TODOS OS ARQUIVOS);
+- [x] Colocar o gabarito (EM TODOS OS ARQUIVOS);
 - [ ] Colocar as funções de cada biblioteca na frente dos includes.
-- [ ] A main tem que receber argumentos (int argc, char *argv[]);
-- [ ] O número de arquivos k é dado por k = argc - 2;
+- [x] A main tem que receber argumentos (int argc, char *argv[]);
+- [x] O número de arquivos k é dado por k = argc - 3;
 - [ ] Comentar cada função e o programa no começo.
 - [x] Nome do programa principal: mergemultiplo.c;
 - [ ] -s para modo simples e -h para modo com heap;
