@@ -9,6 +9,7 @@ TAREFA F
 - [x] Nome do programa principal: mergemultiplo.c;
 - [ ] -s para modo simples e -h para modo com heap;
 - [ ] Colocar cada um em um módulo;
+- [ ] Fazer funções que abrem e fecham arquivos, e que desalocam o vetor entrada.
 - [ ] O programa tem que exibir o tempo contado (DA MAIN), no arquivo de saida;
 - [ ] Função DEBUG;
 - [ ] Vetores serão v[1...k];
