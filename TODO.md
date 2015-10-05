@@ -8,7 +8,7 @@ TAREFA F
 - [ ] Colocar as funções de cada biblioteca na frente dos includes.
 - [ ] Comentar cada função e o programa no começo.
 - [ ] Fazer os módulos (-s para simples e -h para heap, em módulos, obviamente) com for, e o contador do for será impresso no final;
-- [x] O programa tem que exibir o tempo contado (DA MAIN), no arquivo de saida;
+- [ ] O programa tem que exibir o tempo contado (DA MAIN), no arquivo de saida;
 - [x] Função DEBUG, para ver se o tamanho ta certo e ta em ordem crescente;
 - [x] DEBUGAR O PROGRAMA NA PARTE -S (LOOP INFINITO)
 - [ ] Vetores em heap serão v[1...k];
