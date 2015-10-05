@@ -7,13 +7,7 @@ TAREFA F
 - [x] Nome do programa principal: mergemultiplo.c;
 - [ ] Colocar as funções de cada biblioteca na frente dos includes.
 - [ ] Comentar cada função e o programa no começo.
-- [ ] Fazer os módulos (-s para simples e -h para heap, em módulos, obviamente) com for, e o contador do for será impresso no final; 
- 
-- ### Fazer funções que:
-- [ ] Abrem e fecham arquivos; 
-- [ ] Que desalocam o vetor entrada;
-- [ ] Que leem do arquivo.
- 
+- [ ] Fazer os módulos (-s para simples e -h para heap, em módulos, obviamente) com for, e o contador do for será impresso no final;
 - [ ] O programa tem que exibir o tempo contado (DA MAIN), no arquivo de saida;
 - [ ] Função DEBUG, para ver se o tamanho ta certo e ta em ordem crescente;
 - [ ] Vetores em heap serão v[1...k];
@@ -21,3 +15,8 @@ TAREFA F
 - [ ] Criar vetor para o heap com malloc, e quando um arquivo acabar usar realloc (tamanho--);
 - [ ] Se tamanho == 0, break, fim do programa.;
 - [ ] Mexer com o min-heap pra tirar o elemento minimo e adiciona o próximo.
+
+- ### Fazer funções que:
+- [ ] Abrem e fecham arquivos; 
+- [ ] Que desalocam o vetor entrada;
+- [ ] Que leem do arquivo.
