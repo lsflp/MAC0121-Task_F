@@ -7,7 +7,9 @@ TAREFA F
 - [x] Nome do programa principal: mergemultiplo.c;
 - [ ] Colocar as funções de cada biblioteca na frente dos includes.
 - [ ] Comentar cada função e o programa no começo.
-- [ ] Fazer os módulos (-s para simples e -h para heap, em módulos, obviamente) com for, e o contador do for será impresso no final;
+- [ ] Mudar os argumentos da função, pra ficar bonitinho;
+- [ ] Fazer os módulos-s para simples com for, e o contador do for será impresso no final;
+- [ ] Fazer os módulo -h para heap com for, e o contador do for será impresso no final;
 - [ ] O programa tem que exibir o tempo contado (DA MAIN), no arquivo de saida;
 - [x] Função DEBUG, para ver se o tamanho ta certo e ta em ordem crescente;
 - [x] DEBUGAR O PROGRAMA NA PARTE -S (LOOP INFINITO)
