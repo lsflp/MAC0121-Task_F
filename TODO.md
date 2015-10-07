@@ -20,7 +20,7 @@ TAREFA F
 - [ ] Checar indentação.
 - [ ] Checar codificação (em todos os arquivos).
 - [ ] Checar espaços antes de abre chaves.
-- [ ] Descrever o programa no início.
+- [x] Descrever o programa no início.
 - [ ] Deixar em 80 colunas.
 
 - ### Fazer funções que:
