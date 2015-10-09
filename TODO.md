@@ -23,5 +23,5 @@ TAREFA F
 - [x] Descrever o programa no início.
 - [x] Deixar em 80 colunas.
 
-- ### Fazer funções que:
+### Fazer funções que:
 - [x] Que leem do arquivo.
